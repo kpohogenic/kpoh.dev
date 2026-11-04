@@ -1,4 +1,4 @@
 # kpoh.dev
-"kpoh.dev" im crine who does this guy think he is
+website about me, development wise
 
-[go to index idk](./index.html)
+for example nothing!
